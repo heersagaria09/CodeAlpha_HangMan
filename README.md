@@ -1,5 +1,6 @@
 HANGMAN:
-Hangman is a classic word-guessing game where the player tries to guess a hidden word, one letter at a time.
+
+A classic word-guessing game where the player tries to guess a hidden word, one letter at a time.
 For each wrong guess, a part of a stick figure (the "hangman") is drawn, and the player loses a life.
 The goal is to guess all the letters correctly before running out of lives.
 
